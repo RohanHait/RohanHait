@@ -5,7 +5,7 @@
   <a href = "https://www.linkedin.com/in/rohan-hait-a6800722a/" target = "blank" ><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/> </a>
   <a href = "https://www.linkedin.com/in/rohan-hait-a6800722a/" target = "blank" ><img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/> </a>
 </div>
-<h1 align="center">Hi 👋, I'm Rohan Hait</h1>
+<h1 align="center">Hi :wave: I'm Rohan Hait</h1>
 <h3 align="center">A passionate frontend developer and Competitive Coder from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=RohanHait&label=Profile%20views&color=0e75b6&style=flat" alt="RohanHait" /> </p>
